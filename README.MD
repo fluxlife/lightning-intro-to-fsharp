@@ -16,6 +16,7 @@
 Do the above and then
 
 ### In a notebook
+- Install [Python 3](https://www.python.org/downloads/)
 - Follow instructions above to install F# (and Mono if you are on mac/linux)
 - clone this repo
 - install juptyer (if you haven't already)
